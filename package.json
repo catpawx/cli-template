@@ -1,7 +1,7 @@
 {
   "name": "@catpawx/cli-template",
   "version": "0.0.1",
-  "description": "💪🏻 猫爪联盟前端团队cli-template,用于简单的脚本模板",
+  "description": "🐾 猫爪联盟前端团队cli-template，用于简单的脚本模板",
   "bin": {
     "create-template": "dist/index.js",
     "ctl": "dist/index.js"
